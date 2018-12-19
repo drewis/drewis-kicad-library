@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QMK_PROTON_C_FULL
+D qmk proton-c
+$ENDCMP
+#
+$CMP QMK_PROTON_C_FULL_EXTENDED
+D qmk proton-c
+$ENDCMP
+#
+#End Doc Library
