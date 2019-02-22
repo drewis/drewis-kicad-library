@@ -1,0 +1,10 @@
+(module DIODE_TH (layer F.Cu) (tedit 5C411021)
+  (fp_text reference SW5:10 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.778) (thickness 0.254)))
+  )
+  (fp_text value SW5:3 (at 0 0) (layer B.SilkS) hide
+    (effects (font (size 1.524 1.778) (thickness 0.254)) (justify mirror))
+  )
+  (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.Mask))
+  (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.Mask))
+)
